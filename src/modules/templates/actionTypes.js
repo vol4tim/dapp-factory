@@ -1,0 +1,3 @@
+export const LOAD = 'TEMPLATES_LOAD'
+export const SET_TEMPLATE = 'TEMPLATES_SET_TEMPLATE'
+export const SET_RESULT = 'TEMPLATES_SET_RESULT'
